@@ -1,0 +1,1 @@
+A simple weather and time menu for fivem. It is in danish but it is easy to translate since the code is written with english variables. Btw freeze weather doesnt work, it automaticly sets it to freeze time and you cant really change it.
